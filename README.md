@@ -1,5 +1,5 @@
 ### 👋 Hi there
-- 🌱 I’m currently learning: Flutter | React | svelte
+- 🌱 I’m currently learning Golang
 - 🍎 Super Great Delicious Wonderfull Masterpiece
 
 ## Stats
