@@ -28,8 +28,8 @@
 ```
 
 ## Stats
-<p align="start"><a href="https://github.com/gylmynnn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylmynnn&theme=radical&layout=compact"></a></p>   
+<p align="start"><a href="https://github.com/gylmynnn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gylmynnn&theme=radical&layout=compact"></a></p>   
 </div>
 
 ## Visitors 視聴者
-<p align="start"><img src="https://count.getloli.com/get/@gylmynnn?theme=rule34" alt="gylmyn"/></p>
+<p align="start"><img src="https://count.getloli.com/get/@Gylmynnn?theme=rule34" alt="gylmyn"/></p>
