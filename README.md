@@ -2,7 +2,7 @@
 
 ```json
 {
-  "name": "Muhamad Gilman",
+  "name": "Muhamad Gilman Nurrajabi",
   "alias": "Gylmynnn",
   "role": "Backend Developer",
   "education": {
