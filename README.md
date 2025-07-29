@@ -28,7 +28,7 @@
 ```
 
 ## Stats
-<p align="start"><a href="https://github.com/gylmynnn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylmynnn&theme=radical&layout=compact"></a></p>   
+<p align="start"><a href="https://github.com/Gylmynnn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gylmynnn&theme=radical&layout=compact"></a></p>   
 </div>
 
 ## Visitors 視聴者
