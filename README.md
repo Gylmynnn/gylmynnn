@@ -17,7 +17,7 @@
   "contact": {
     "email": "muhamadgilman999@gmail.com",
     "linkedin": "https://linkedin.com/in/muhamad-gilman",
-    "portfolio": "https://blog-indol-two-43.vercel.app"
+    "portfolio": "https://myblog-gylmyn.vercel.app/"
   },
   "interests": [
     "Backend Technologies",
