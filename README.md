@@ -33,8 +33,11 @@
 ```
 
 ## Stats
-<p align="start"><a href="https://github.com/Gylmynnn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gylmynnn&theme=radical&layout=compact"></a></p>   
-</div>
+<p>
+  <a href="https://github.com/Gylmynnn">
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gylmynnn" alt="GitHub Streak" /></a>
+  </a>
+</p>
 
 ## Visitors 視聴者
 <p align="start"><img src="https://count.getloli.com/get/@gylmynnn?theme=rule34" alt="gylmyn"/></p>
