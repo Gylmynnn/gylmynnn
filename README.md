@@ -23,6 +23,10 @@
     "Backend Technologies",
     "Machine Learning",
     "Cloud Computing"
+  ],
+  "Hobbies" : [
+    "Linux Ricing",
+    "Made Tools"
   ]
 }
 ```
