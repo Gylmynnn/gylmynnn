@@ -18,7 +18,7 @@
     "email": "muhamadgilman999@gmail.com",
     "linkedin": "https://linkedin.com/in/muhamad-gilman",
     "portfolio": "soon",
-    "blog" : "https://blog.gylmynnn.my.id/"
+    "blog" : "https://gylmynnn.my.id/"
   },
   "interests": [
     "Backend Technologies",
